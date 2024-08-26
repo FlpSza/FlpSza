@@ -24,6 +24,8 @@ I constantly study and update myself in the technology field because I love lear
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="25" alt="C# logo"  />
+  <img width="8" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" alt="typescript logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="react-native logo"  />
