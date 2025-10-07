@@ -32,6 +32,9 @@ I constantly study and update myself in the technology field because I love lear
   <img width="8" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25" alt="nodejs logo"  />
   <img width="8" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="python logo"  />
+
 
   <h3>Secondary Stack</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" alt="java logo"  />
